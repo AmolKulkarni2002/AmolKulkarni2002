@@ -9,7 +9,7 @@ About Me:<br>Data Analyst with expertise in SQL, Python, and Power BI.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AmolKulkarni2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=AmolKulkarni2002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmolKulkarni2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
