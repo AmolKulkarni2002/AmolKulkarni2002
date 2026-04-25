@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>Data Science Analyst with expertise in SQL, Python, and Power BI.
+About Me:<br>Data Analyst with expertise in SQL, Python, and Power BI.
 
 
 ## 🌐 Socials:
